@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+div {
+  display: grid;
+  place-content: center;
+  width: 100%;
+  height: 100%;
+  background-color: darkgrey;
+  color: lavender;
+  -webkit-text-stroke-color: green;
+  font-family: Futura;
+  font-size: 88pt;
+}
